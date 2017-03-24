@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490354585 source:d:\codeblocks\min-heap\main.cpp
+	<stdio.h>
+	<malloc.h>
+	<algorithm>
+
