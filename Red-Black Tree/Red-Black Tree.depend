@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490542067 source:d:\codeblocks\red-black tree\in.c
+
+1490607755 source:d:\codeblocks\red-black tree\main.cpp
+	<stdio.h>
+	<queue>
+
